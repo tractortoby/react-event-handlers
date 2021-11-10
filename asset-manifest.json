@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-event-handlers/static/css/main.69eda509.chunk.css",
+    "main.js": "/react-event-handlers/static/js/main.eeee0ab9.chunk.js",
+    "main.js.map": "/react-event-handlers/static/js/main.eeee0ab9.chunk.js.map",
+    "runtime-main.js": "/react-event-handlers/static/js/runtime-main.91cbdc2f.js",
+    "runtime-main.js.map": "/react-event-handlers/static/js/runtime-main.91cbdc2f.js.map",
+    "static/js/2.e82b4d11.chunk.js": "/react-event-handlers/static/js/2.e82b4d11.chunk.js",
+    "static/js/2.e82b4d11.chunk.js.map": "/react-event-handlers/static/js/2.e82b4d11.chunk.js.map",
+    "index.html": "/react-event-handlers/index.html",
+    "precache-manifest.bb82ea4f61181f7bdb01bca2ae35a5c9.js": "/react-event-handlers/precache-manifest.bb82ea4f61181f7bdb01bca2ae35a5c9.js",
+    "service-worker.js": "/react-event-handlers/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/react-event-handlers/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.e82b4d11.chunk.js.LICENSE": "/react-event-handlers/static/js/2.e82b4d11.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91cbdc2f.js",
+    "static/js/2.e82b4d11.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.eeee0ab9.chunk.js"
+  ]
+}
